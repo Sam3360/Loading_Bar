@@ -17,7 +17,7 @@ Example Output:
 
 ## Usage
 1. Clone the repository
-   git clone https://github.com/<your-username>/Loading_Bar.git
+   git clone https://github.com/Sam3360/Loading_Bar.git
    cd Loading_Bar
 
 2. Run the script
