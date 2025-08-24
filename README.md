@@ -29,10 +29,6 @@ Loading_Bar/
 │── README.md  
 └── loading.gif  
 
-## Contributing
-Found a bug or want to make the animation cooler?  
-Feel free to open an issue or a pull request 🚀  
-
 ## License
 This project is licensed under the MIT License – free to use, modify, and share.  
 
